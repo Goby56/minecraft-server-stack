@@ -1,0 +1,6 @@
+velocity*.jar
+logs/
+plugins/
+lang/
+.papermc-manifest.json
+.results.env

@@ -1,0 +1,37 @@
+services:
+  proxy:
+    image: itzg/mc-proxy
+    environment:
+      TYPE: "VELOCITY"
+      REPLACE_ENV_VARIABLES: true
+    ports:
+      - "25565:25565"
+    volumes:
+      - "./proxy:/server"
+  smp:
+    image: itzg/minecraft-server:latest
+    pull_policy: daily
+    tty: true
+    stdin_open: true
+    environment:
+      EULA: TRUE
+      TYPE: "FABRIC"
+      VERSION: 1.21.10
+      ONLINE_MODE: false
+    volumes:
+      - ./servers/smp:/data
+  bedwars:
+    image: itzg/minecraft-server:latest
+    pull_policy: daily
+    tty: true
+    stdin_open: true
+    environment:
+      EULA: TRUE
+      TYPE: "PAPER"
+      VERSION: 1.20.4
+      PAPER_BUILD: 499
+      ONLINE_MODE: false
+    volumes:
+      - ./servers/bedwars:/data
+
+

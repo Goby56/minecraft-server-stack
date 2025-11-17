@@ -1,0 +1,17 @@
+fabric*.jar
+.fabric/**
+.cache/**
+libraries/**
+logs/**
+world/**
+mods/**
+versions/**
+usercache.json
+whitelist.json
+banned-ips.json
+banned-players.json
+ops.json
+.fabric-manifest.json
+.install-fabric.env
+.rcon-cli.env
+.rcon-cli.yaml
