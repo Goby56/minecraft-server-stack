@@ -3,6 +3,7 @@ cache/
 libraries/
 logs/
 plugins/*.jar
+plugins/.paper-remapped/
 versions/
 bedwars-world/
 world/

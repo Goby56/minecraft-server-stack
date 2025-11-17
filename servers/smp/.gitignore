@@ -15,3 +15,7 @@ ops.json
 .install-fabric.env
 .rcon-cli.env
 .rcon-cli.yaml
+
+# ===== Mods =====
+# Yet Another Minecraft Bingo
+# config/yet-another-minecraft-bingo/bingo.db

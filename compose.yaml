@@ -33,5 +33,17 @@ services:
       ONLINE_MODE: false
     volumes:
       - ./servers/bedwars:/data
+  hungergames:
+    image: itzg/minecraft-server:latest
+    pull_policy: daily
+    tty: true
+    stdin_open: true
+    environment:
+      EULA: TRUE
+      TYPE: "PAPER"
+      VERSION: 1.21.4
+      ONLINE_MODE: false
+    volumes:
+      - ./servers/hungergames:/data
 
 

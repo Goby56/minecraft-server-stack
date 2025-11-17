@@ -1,0 +1,10 @@
+region:
+  world: hungergames-world
+  pos1:
+    x: 345.0
+    y: 0.0
+    z: -332.0
+  pos2:
+    x: -316.0
+    y: 140.0
+    z: 315.0
