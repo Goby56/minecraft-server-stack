@@ -1,3 +1,4 @@
+# Template .gitignore file for a Paper server
 .cache/
 cache/
 libraries/
