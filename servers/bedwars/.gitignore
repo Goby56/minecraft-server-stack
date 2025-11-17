@@ -1,9 +1,10 @@
-.cache/**
-cache/**
-libraries/**
-logs/**
+.cache/
+cache/
+libraries/
+logs/
 plugins/*.jar
-versions/**
+versions/
+bedwars-world/
 world/
 world_nether/
 world_the_end/
@@ -18,3 +19,26 @@ paper*.jar
 usercache.json
 version_history.json
 whitelist.json
+
+# ===== Plugins =====
+# Bedwars1058
+plugins/Bedwars1058/Cache/
+plugins/Parkour/players/
+plugins/Parkour/sessions/
+plugins/Parkour/sqlite-db/
+plugins/Parkour/Parkour.log
+
+# WorldEdit
+plugins/WorldEdit/.archive-unpack/
+plugins/WorldEdit/assets/
+plugins/WorldEdit/schematics/
+plugins/WorldEdit/sessions/
+
+# ajLeaderboards
+plugins/ajLeaderboards/libs/
+plugins/ajLeaderboards/past-resets/
+plugins/ajLeaderboards/cache.mv.db
+plugins/ajLeaderboards/cache_storage.yml
+
+
+

@@ -1,0 +1,62 @@
+{
+   "Ready": true,
+   "Checkpoint": {
+      "0": {
+         "CheckpointX": 127,
+         "CheckpointY": -3,
+         "CheckpointZ": 161,
+         "Location": {
+            "world": "world",
+            "x": 127.5,
+            "y": -1.5,
+            "z": 161.5,
+            "pitch": -3.9597924,
+            "yaw": 68.83423
+         }
+      },
+      "1": {
+         "CheckpointX": 128,
+         "CheckpointY": 11,
+         "CheckpointZ": 169,
+         "Location": {
+            "world": "world",
+            "x": 128.5,
+            "y": 12.5,
+            "z": 169.5,
+            "pitch": -2.7646506,
+            "yaw": 136.01929
+         }
+      },
+      "2": {
+         "CheckpointX": 119,
+         "CheckpointY": 37,
+         "CheckpointZ": 181,
+         "Location": {
+            "world": "world",
+            "x": 119.5,
+            "y": 38.5,
+            "z": 181.5,
+            "pitch": -4.600121,
+            "yaw": -150.77402
+         }
+      },
+      "3": {
+         "CheckpointX": 136,
+         "CheckpointY": 108,
+         "CheckpointZ": 171,
+         "Location": {
+            "world": "world",
+            "x": 136.5,
+            "y": 109.5,
+            "z": 171.5,
+            "pitch": 77.13966,
+            "yaw": -84.89453
+         }
+      }
+   },
+   "Views": 7,
+   "Checkpoints": 3,
+   "Completed": 2,
+   "Creator": "_Goby",
+   "Name": "lobby"
+}
