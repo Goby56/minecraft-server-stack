@@ -21,6 +21,9 @@ usercache.json
 version_history.json
 whitelist.json
 
+# ===== Additional worlds =====
+hungergames-world/
+
 # ===== Plugins =====
 # WorldEdit
 plugins/WorldEdit/.archive-unpack/

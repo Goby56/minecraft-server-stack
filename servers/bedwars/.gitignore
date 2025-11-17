@@ -5,7 +5,6 @@ logs/
 plugins/*.jar
 plugins/.paper-remapped/
 versions/
-bedwars-world/
 world/
 world_nether/
 world_the_end/
@@ -20,6 +19,9 @@ paper*.jar
 usercache.json
 version_history.json
 whitelist.json
+
+# ===== Additional worlds =====
+bedwars-world/
 
 # ===== Plugins =====
 # Bedwars1058
