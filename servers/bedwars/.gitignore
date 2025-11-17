@@ -19,6 +19,8 @@ paper*.jar
 usercache.json
 version_history.json
 whitelist.json
+permissions.yml
+wepif.yml
 
 # ===== Additional worlds =====
 bedwars-world/
