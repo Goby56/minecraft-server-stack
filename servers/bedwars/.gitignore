@@ -26,6 +26,8 @@ bedwars-world/
 # ===== Plugins =====
 # Bedwars1058
 plugins/Bedwars1058/Cache/
+
+# Parkour
 plugins/Parkour/players/
 plugins/Parkour/sessions/
 plugins/Parkour/sqlite-db/

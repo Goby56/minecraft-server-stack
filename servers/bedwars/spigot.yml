@@ -158,6 +158,8 @@ world-settings:
     zombie-aggressive-towards-villager: true
     enable-zombie-pigmen-portal-spawns: true
     verbose: false
+  worldeditregentempworld:
+    verbose: false
 commands:
   spam-exclusions:
   - /skill
@@ -168,7 +170,7 @@ commands:
   - testforblock
   - tellraw
   tab-complete: 0
-  send-namespaced: true
+  send-namespaced: false
   log: true
 players:
   disable-saving: false
