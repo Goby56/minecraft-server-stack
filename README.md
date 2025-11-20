@@ -1,3 +1,7 @@
+## Worlds and plugins
+The configs are made for the following mods/plugins and worlds:
+https://drive.google.com/drive/folders/1czKvmVnBTjbTHoz5rtf03OnpBZqBnyVj?usp=drive_link
+
 ## Environment variables
 Specify variables in `.env`.
 
